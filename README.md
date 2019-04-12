@@ -1,2 +1,2 @@
-# mickaelbaye..github.io
+# mickaelbaye.github.io
 Personal website
